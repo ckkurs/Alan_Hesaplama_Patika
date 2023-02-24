@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\bin\Debug\net5.0\Alan Hesaplama.exe
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\bin\Debug\net5.0\Alan Hesaplama.deps.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\bin\Debug\net5.0\Alan Hesaplama.runtimeconfig.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\bin\Debug\net5.0\Alan Hesaplama.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\bin\Debug\net5.0\Alan Hesaplama.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\bin\Debug\net5.0\Alan Hesaplama.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.AssemblyInfo.cs
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\refint\Alan Hesaplama.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\Alan Hesaplama.genruntimeconfig.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Alan Hesaplama\obj\Debug\net5.0\ref\Alan Hesaplama.dll
